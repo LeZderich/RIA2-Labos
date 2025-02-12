@@ -1,0 +1,25 @@
+{
+  "name": "ria2-labos",
+  "version": "1.0.0",
+  "description": "This repository has been published here for educational purposes. It consists of several labs for learning about javascript frameworks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeZderich/RIA2-Labos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeZderich/RIA2-Labos/issues"
+  },
+  "homepage": "https://github.com/LeZderich/RIA2-Labos#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "@types/jest": "^29.5.14"
+  }
+}
